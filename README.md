@@ -20,17 +20,17 @@ Here are some ideas to get you started:
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@omdevs">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@omdevs/4c17a227-eb23-48c5-a2f1-492e5538842c.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@omdevs/2103d59c-1452-4488-8839-2bc38ce2b54e.svg" />
 </a>
 <a href="https://wakatime.com/@omdevs">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@omdevs/57160975-2111-472e-bc92-f390b42053b3.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@omdevs/a25b64df-1da2-4911-9ba1-8a03b96e8e19.svg" />
 </a></p>
 
 <p align="center"><a href="https://wakatime.com/@omdevs">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@omdevs/b7d6c245-11dd-4802-a2dd-8ff0fd915324.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@omdevs/f29c261d-7381-41f5-a6b7-d66c98eccacc.svg" />
 </a>
 <a href="https://wakatime.com/@omdevs">
-  <img align="center" width="400" height="300" src="https://wakatime.com/share/@omdevs/29475f0b-8d50-47b4-aaf5-f96bdcab9d0d.svg" />
+  <img align="center" width="400" height="300" src="https://wakatime.com/share/@omdevs/ef66e39c-edc7-4b2b-9386-29b4389a3d85.svg" />
 </a></p>
 
 ### 👷 Check out what I'm currently working on

@@ -44,6 +44,6 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
 - Email   : <omdevshastriwork@gmail.com> 
-- Twitter   : <https://twitter.com/omdevs>
+- Twitter   : <https://twitter.com/omdevshastri4>
 - Website   : <https://omdevshastri.com> //not online yet
 

@@ -43,5 +43,7 @@ Here are some ideas to get you started:
 - [OmdevShastri/website](https://github.com/OmdevShastri/MyPortfolioWebsite) - 
 
 ### 📫 How to reach me:
-
+- Email   : <omdevshastri4@gmail.com>
+- Twitter   : <https://twitter.com/omdevs>
+- Website   : <https://omdevshastri.com> //not online yet
 

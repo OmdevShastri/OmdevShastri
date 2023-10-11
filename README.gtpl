@@ -37,8 +37,6 @@
 - [{{ .Title }}]({{ .URL }})
 {{- end }}
 ### 📫 How to reach me:
-  - Youtube   : <https://youtube.com/c/ChrisTitusTech>
-  - Twitch    : <https://twitch.tv/christitustech>
-  - Twitter   : <https://twitter.com/christitustech>
-  - Website   : <https://christitus.com>
-  - Web Store : <https://cttstore.com>
+  - Email   : <omdevshastri4@gmail.com>
+  - Twitter   : <https://twitter.com/omdevs>
+  - Website   : <https://omdevshastri.com> //not online yet

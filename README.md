@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm currently a fresher/grad student(BE/B.Tech in Electronics and Telecommunication Engineering) striving to be a Software Developer Engineer
 <!--
 **OmdevShastri/OmdevShastri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -34,14 +34,12 @@ Here are some ideas to get you started:
 </a></p>
 
 ### 👷 Check out what I'm currently working on
-{{ range recentContributions 5 }}
-- [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
-  {{- end }}
+- [OmdevShastri/website](https://github.com/OmdevShastri/) - My HUGO Website that I use for Videos, Blogs, and Redirects
+- 
+  
 ### 🌱 My latest projects
-{{ range recentRepos 5 }}
-- [{{ .Name }}]({{ .URL }}) - {{ .Description }}
-  {{- end }}
-
+- [OmdevShastri/](https://github.com/OmdevShastri/) -
+- 
 
 ### 📫 How to reach me:
 

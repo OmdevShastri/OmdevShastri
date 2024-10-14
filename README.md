@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 - [OmdevShastri/website](https://github.com/OmdevShastri/MyPortfolioWebsite) - My Website that I will be using for Blogs, Showcasing Interests/ works and Redirects
 - [OmdevShastri/Java](https://github.com/OmdevShastri/MyJava) - My Java practice repository
 - [OmdevShastri/JavaGameEngine3D](https://github.com/OmdevShastri/MyJavaGameEngine3D) - A 3D game engine with OpenGL on Java
+- [OmdevShastri/DynoPdf](https://github.com/OmdevShastri/DynoPdf)
+- [OmdevShastri/WeatherO](https://github.com/OmdevShastri/WeatherO)
   
 ### 🌱 My latest projects
 - [OmdevShastri/JavaGameEngine3D](https://github.com/OmdevShastri/MyJavaGameEngine3D) - 

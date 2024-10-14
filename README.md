@@ -39,13 +39,16 @@ Here are some ideas to get you started:
 - [OmdevShastri/JavaGameEngine3D](https://github.com/OmdevShastri/MyJavaGameEngine3D) - A 3D game engine with OpenGL on Java
 - [OmdevShastri/DynoPdf](https://github.com/OmdevShastri/DynoPdf)
 - [OmdevShastri/WeatherO](https://github.com/OmdevShastri/WeatherO)
-  
-### 🌱 My latest projects
-- [OmdevShastri/JavaGameEngine3D](https://github.com/OmdevShastri/MyJavaGameEngine3D) - 
-- [OmdevShastri/website](https://github.com/OmdevShastri/MyPortfolioWebsite) - 
 
-### 📫 How to reach me:
-- Email   : <omdevshastriwork@gmail.com> 
+<!-- ### 🌱 My latest projects
+[OmdevShastri/JavaGameEngine3D](https://github.com/OmdevShastri/MyJavaGameEngine3D) - 
+[OmdevShastri/website](https://github.com/OmdevShastri/MyPortfolioWebsite) -
+-->
+
+### 📫 Where else can you find me:
+- Email   : <omdevshastriwork@gmail.com>
+- LinkedIn : <https://www.linkedin.com/in/omdev-shastri/>
+- Youtube : <https://www.youtube.com/@omdevs>
 - Twitter   : <https://twitter.com/omdevshastri4>
 <!-- - Website   : <https://omdevshastri.com> //not online yet
 -->

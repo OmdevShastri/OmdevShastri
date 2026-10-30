@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently a fresher/grad student(BE/B.Tech in Electronics and Telecommunication Engineering) striving to be a Software Developer Engineer
+I graduate(BE/B.Tech in Electronics and Telecommunication Engineering) striving to be a Software Developer Engineer
 <!--
 **OmdevShastri/OmdevShastri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

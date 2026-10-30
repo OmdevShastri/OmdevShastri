@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img align="center" width="400" height="300" src="https://wakatime.com/share/@omdevs/ef66e39c-edc7-4b2b-9386-29b4389a3d85.svg" />
 </a></p>
 -->
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center"><a href="https://github.com/stats-organization/github-stats-extended">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmdevShastri&show_icons=true&theme=tokyonight" />
 </a></p>
 

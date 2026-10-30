@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 </a></p>
 -->
 <p align="center"><a href="https://github.com/stats-organization/github-stats-extended">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=OmdevShastri&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=OmdevShastri&show_icons=true&theme=tokyonight" />
 </a></p>
 
 ### 👷 Check out what I'm currently working on
